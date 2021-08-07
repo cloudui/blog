@@ -3,3 +3,29 @@
     position:relative; 
     top: 6px
 }
+
+.dot {
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.dots {
+    margin-left:4.5rem
+}
+
+.post-content {
+    line-height: 1.6;
+}
+
+.image {
+    text-align: center;
+    display: block;
+}
+
+figcaption {
+    font-size: small;
+    margin-bottom: 1em;
+    color: gray;
+}
