@@ -61,4 +61,6 @@ fi
 bundle exec htmlproofer "$DEST" \
   --disable-external \
   --check-html \
-  --allow_hash_href
+  --empty_alt_ignore \
+  --allow_hash_href \
+  --url_ignore $URL_IGNORE
