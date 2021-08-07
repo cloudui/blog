@@ -24,10 +24,14 @@
     display: block;
 }
 
+img {
+    border-radius: 10px !important;
+}
+
 figcaption {
     font-size: small;
     margin-bottom: 1em;
-    color: gray;
+    color: #afb0b1;
 }
 
 @media all and (min-width: 850px) and (max-width: 1199px) {
