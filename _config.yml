@@ -30,7 +30,7 @@ description: >-                        # used by seo meta and the atom feed
   Personal blog made with Jekyll
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'http://test.echen.io'
+url: 'https://echen.io'
 
 github:
   username: cloudui            # change to your github username
