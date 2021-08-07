@@ -9,7 +9,7 @@ I have been watching a lot of YouTube recently and I'd like to share my favorite
 
 
 ## Commentary Channels
-{% include image.html url="/assets/img/blog/2020-06-29-favorite-youtube-channels/75y73mf3tkc41.png" width="250" %}
+{% include image.html url="/assets/img/blog/2020-06-29-favorite-youtube-channels/75y73mf3tkc41.png" description="Big stinker Drew Gooden" width="250" %}
 
 I like commentary channels a lot, and I have watched quite a handful of them. I recently found a guy named Drew Gooden, and he's very entertaining. He is very sarcastic and mellow, even when he's mad. His commentary is funny and relatable, and I like the consistency throughout his videos. He discusses all sorts of topics, including the infamous Paul Brothers, dumb arts and crafts channels, and movies. I think he is underrated and you should check him out.
 
