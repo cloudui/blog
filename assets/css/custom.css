@@ -1,3 +1,7 @@
+/* :root {
+    --link-color: rgb(81, 156, 214) !important;
+} */
+
 .feather {
     height: 20px;
     position: relative;
@@ -11,9 +15,6 @@
     display: inline-block;
 }
 
-.dots {
-    margin-left: 4.5rem
-}
 
 .post-content {
     line-height: 1.6;
@@ -34,6 +35,12 @@ figcaption {
     color: #afb0b1;
 }
 
+@media all and (min-width: 1650px) {
+    .dots {
+        margin-left: 4.5rem;
+    }
+}
+
 @media all and (min-width: 850px) and (max-width: 1199px) {
     .dots {
         margin-left: 1rem;
@@ -45,5 +52,20 @@ figcaption {
     .dots {
         margin-left: 1.8rem;
         margin-right: 1.8rem;
+    }
+}
+.img-preview {
+    position:relative;
+    left:50%;
+    -webkit-transform:translateX(-50%);
+    -ms-transform:translateX(-50%);
+    transform:translateX(-50%);
+    margin-top:0;
+    margin-bottom: 1.5rem !important
+}
+
+@media all and (min-width: 1650px) {
+    #sidebar ul .nav-item .nav-link>svg.unloaded {
+        display: inline-block !important
     }
 }

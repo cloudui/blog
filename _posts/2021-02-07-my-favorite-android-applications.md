@@ -49,8 +49,6 @@ The to-do list app in my life. It's very good for managing tasks and has a clean
 
 The best app for the manga reader in your life. That's not me, but this app is really good. It has a clean design and dozens of manga sources available, from NSFW stuff to your normal stuff. Although I don't use it much, it is riddled with convenient features and gives you access to things you wouldn't be able to read otherwise. It is a sideloaded app (also indie), and you can find it [here](https://tachiyomi.org/). Thank you to Maxwell Zhang for telling me about this app. 
 
-![Neko](https://tachiyomi.org/assets/forks_banner-neko.png)
-
 #### Duolingo
 
 I've been learning Japanese for over two years at this point. For my new year's resolution in 2019, I wanted to learn a new language, and I've stuck with that since. It's probably the only time I've ever kept one. Duolingo is an excellent resource for learning languages. Although I don't necessarily think it's ideal for a language like Japanese, I still use it as it is convenient and simple. Although the ads are quite annoying, I think it is nice overall. I picked up French a couple months ago and I'm also trying to learn it at the same time. I think you should diversify your sources to maximize your learning capabilities, as Duolingo isn't good for all aspects of learning a language.
