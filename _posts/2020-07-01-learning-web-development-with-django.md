@@ -6,9 +6,9 @@ categories: Web_Development Django
 tags: django aws guide
 ---
 
-First and foremost, I am no expert at web development. I have happened to pick up on a few things from working on it for a few months, and I want to give you a few resources on how to get started.
+I spent my last couple of months learning how to make websites with the Django framework. I have happened to pick up on a few things from working on it, and I want to give you a few resources on how to get started.
 
-This website in particular was made using Django, a python web framework. It is not difficult to learn, and it helps if you are at least familiar with the class structure in python. It's good for websites that require things like user log in, posting, and model-related work (versions of the same type of object). I wouldn't recommend it for static websites or rather simple websites, as it might take more time than you want. If you look at any of my other websites, all of them are also written in Django, other than my homepage, which is a static site hosted on Amazon S3 and CloudFront. I'm familiar with Django, but not much else.
+This website (referring to my old site at [blog.echen.io](https://blog.echen.io)) in particular was made using Django, a python web framework. It is not difficult to learn, and it helps if you are at least familiar with the class structure in python. It's good for websites that require things like user log in, posting, and model-related work (versions of the same type of object). I wouldn't recommend it for static websites or rather simple websites, as it might take more time than you want. If you look at any of my other websites, all of them are also written in Django, other than my homepage, which is a static site hosted on Amazon S3 and CloudFront. I'm familiar with Django, but not much else.
 
 ## How do I learn Django?
 

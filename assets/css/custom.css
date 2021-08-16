@@ -8,6 +8,11 @@
     top: 6px
 }
 
+.coffee {
+    position: relative;
+    top: 5px;
+}
+
 .dot {
     height: 20px;
     width: 20px;
