@@ -2,8 +2,12 @@
 title: My Journey with Amazon Web Services
 categories: Cloud
 tags: aws
+image:
+    src: /assets/img/blog/2021-07-08-my-journey-with-amazon-web-services.md/thumbnail.png
+    width: 450
+    caption: My bot responding to a hashtag. 
 ---
-{% include image.html url="https://blog.echen.io/media/uploads/screenshot_2021-07-08_175432.png" description="My bot responding to a hashtag." width="400" %}
+<!-- {% include image.html url="https://blog.echen.io/media/uploads/screenshot_2021-07-08_175432.png" description="My bot responding to a hashtag." width="400" %} -->
 
 
 Around a year ago, I was bored out of my mind. School sluggishly churned along while I desperately searched for something to do. I stumbled across this YouTube video about creating a Twitter Bot, and I was intrigued. Having relearned some Python, I decided to implement my own.

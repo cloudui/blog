@@ -20,7 +20,6 @@
     display: inline-block;
 }
 
-
 .post-content {
     line-height: 1.6;
 }
@@ -59,13 +58,14 @@ figcaption {
         margin-right: 1.8rem;
     }
 }
+
 .img-preview {
-    position:relative;
-    left:50%;
-    -webkit-transform:translateX(-50%);
-    -ms-transform:translateX(-50%);
-    transform:translateX(-50%);
-    margin-top:0;
+    position: relative;
+    left: 50%;
+    -webkit-transform: translateX(-50%);
+    -ms-transform: translateX(-50%);
+    transform: translateX(-50%);
+    margin-top: 0;
     margin-bottom: 1.5rem !important
 }
 
@@ -73,4 +73,18 @@ figcaption {
     #sidebar ul .nav-item .nav-link>svg.unloaded {
         display: inline-block !important
     }
+}
+
+.thumbnail {
+    margin-bottom: 2rem;
+}
+
+.image-preview {
+    position: relative;
+    left: 50%;
+    -webkit-transform: translateX(-50%);
+    -ms-transform: translateX(-50%);
+    transform: translateX(-50%);
+    margin-top: 0;
+    margin-bottom: 0;
 }

@@ -42,11 +42,15 @@ layout: default # The posts' layout
 
             <div class="post-content">
                 {% if page.image.src %}
-               
-                <img src="{{ page.image.src }}" class="preview-img" alt="{{ page.image.alt | default: " Preview Image " }}" {% if page.image.width %}width="{{ page.image.width }}" 
+               <div class="thumbnail">
+                <img src="{{ page.image.src }}" class="image-preview" alt="{{ page.image.alt | default: " Preview Image " }}" {% if page.image.width %}width="{{ page.image.width }}" 
                 {% endif %} {% if page.image.height %}height="{{ page.image.height }}" {% endif %}>
              
                 {% endif %} 
+                {% if page.image.caption %}
+                <em>{{ page.image.caption }}</em>
+                {% endif %}
+                </div>
                 
                 {{ content }}
 
