@@ -7,8 +7,6 @@ image:
     width: 450
     caption: My bot responding to a hashtag. 
 ---
-<!-- {% include image.html url="https://blog.echen.io/media/uploads/screenshot_2021-07-08_175432.png" description="My bot responding to a hashtag." width="400" %} -->
-
 
 Around a year ago, I was bored out of my mind. School sluggishly churned along while I desperately searched for something to do. I stumbled across this YouTube video about creating a Twitter Bot, and I was intrigued. Having relearned some Python, I decided to implement my own.
 
@@ -26,7 +24,10 @@ So what now? Well, as I mentioned already, I picked it back up this summer. Sinc
 
 *What did I gain reading this 900-word essay of Eric's stream of consciousness?* Good question. I don't want you to leave without getting something in return. After all, I am thankful you made it this far. Below, I've attached the virtual notebook (using OneNote) containing my AWS notes. This is a culmination of about 100+ hours of video-watching and AWS sandbox experimentation. If you think AWS is interesting, I advise you to read about it and see if it is something you would truly want to learn. I'll attach some resources below.
 
-AWS is a fantastic service. Many start-up companies can develop apps and create their business without ever needing to worry about tricky computer hardware and renting out massive facilities. It's an easy way to enter the tech world where you can focus on the stuff you're motivated to make. Since I don't want to sound like a salesman right now, alternatives to AWS like [Google's Cloud Platform](https://cloud.google.com/) or [Microsoft's Azure](https://azure.microsoft.com/en-us/) are probably just as amazing, and you should check them out too. They all have free trials, where you can experiment with a lot of really cool tech! Enjoy!
+AWS is a fantastic service. Many start-up companies can develop apps and create their business without ever needing to worry about tricky computer hardware and renting out massive facilities. It's an easy way to enter the tech world where you can focus on the stuff you're motivated to make. Since I don't want to sound like a salesman right now, alternatives to AWS like [Google's Cloud Platform](https://cloud.google.com/) or [Microsoft's Azure](https://azure.microsoft.com/en-us/) are probably just as amazing, and you should check them out too. They all have free trials, where you can experiment with a lot of really cool tech! Best way to learn is just to hop straight in.
+
+> Update: I passed the certification! I am very happy and relieved that the hours I put in meant something. Now on to the next journey...
+
 
 ### Read about AWS
 

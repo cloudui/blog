@@ -46,11 +46,12 @@ layout: default # The posts' layout
                 <img src="{{ page.image.src }}" class="image-preview" alt="{{ page.image.alt | default: " Preview Image " }}" {% if page.image.width %}width="{{ page.image.width }}" 
                 {% endif %} {% if page.image.height %}height="{{ page.image.height }}" {% endif %}>
              
-                {% endif %} 
+                
                 {% if page.image.caption %}
                 <em>{{ page.image.caption }}</em>
                 {% endif %}
                 </div>
+                {% endif %} 
                 
                 {{ content }}
 

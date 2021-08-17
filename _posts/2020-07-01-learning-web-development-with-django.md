@@ -14,7 +14,7 @@ This website (referring to my old site at [blog.echen.io](https://blog.echen.io)
 
 I learned Django by reading ["Django for Beginners"](https://djangoforbeginners.com/introduction/) by Will Vincent. It's really good and I highly recommend it. You should at least know python and a little bit of Linux shell scripting before you get started (and HTML and CSS, of course). Django itself uses python but you need a lot of commands to get stuff set up. After that, you'll start to get a hang of Django development from reading the book.
 
-## Is it useful?
+### Is it useful?
 
 Websites like BitBucket (Git Repository) use Django, and a lot of big companies use it too. Django developers are wanted by tech companies, and it's a good framework to learn regardless. Other powerful frameworks include Express.js, which is based on Node.js, and Angular (Javascript branch). There are a lot, and Django is just one out of a whole collection. Another common python framework is Flask. Both are powerful, but Django has a little more customization and complexity.
 

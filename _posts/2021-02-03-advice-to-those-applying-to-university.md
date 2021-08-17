@@ -10,12 +10,12 @@ It looks like you're going to start to apply to college soon. It's going to be a
 
 First, a little bit of background. I applied to 13 colleges in total: 2 early decisions and 11 regular decisions. They were as follows.
 
-## Early Action:
+### Early Action:
 
 1. University of Maryland
 2. Stanford 
 
-## Regular Decision:
+### Regular Decision:
 
 1. Carnegie Mellon
 2. Johns Hopkins
@@ -36,8 +36,9 @@ Target schools are those that you feel capable of getting into but are not guara
 I find that most people spend their time on prestigious universities, but then again, my friend circle is brimming with hyper-accomplished students. Most people apply to quite a few. These universities are almost always reach schools, which probably means your acceptance is down to luck (for most students, that is). Schools include all your Ivies, MIT, Stanford, etc. There is quite a lot to choose from and a lot of research for you to do to see which ones you like. 
 
  
-
-## So which ones should I apply to?
+# Getting Started
+------
+## So which schools should I apply to?
 
 Well, it depends on who you are. I'll lay out a few strategies and you can either take your pick or devise your own. If you are perfectly comfortable going to UMD and have a few reach schools that you'd consider, you probably don't need to apply to that many. I know of some who just applied to ~5 colleges for that exact reason. If you're set on making a top-tier college, I recommend UMD and a handful of top-tier colleges, and maybe a couple of targets if you don't to go to UMD. I applied to 1 safety school and 12 reach schools because I am perfectly happy with going to UMD, and anything else is just extra. That's why you don't see any mid-tier or mid-to-top tier schools on my list. From what I've heard, most people in MoCo apply to 7-15 schools. 
 
@@ -47,15 +48,12 @@ I recommend [Fiske's Guide to Colleges](https://www.amazon.com/Fiske-Guide-Colle
 
 Also, don't just go off of what I have said. Ask other seniors or recent graduates as well. Talk to your parents and friends to get their perspective. After all, that's where most of my information came from. Don't stress too much about it; you'll get the gist eventually.
 
- 
-
 ## The Mindset
 
 I genuinely believe that having the mindset that you must go to a top-tier college is harmful. Most people don't end up at the best schools and that's okay. Being a hard worker at a lower-tier college can net you many benefits and may even be better suited towards you. However, it's really hard not to have this mindset in Montgomery County due to the vast amount of accomplished individuals, and I am honestly part of the problem. I think the best thing to remember is that you will be okay. When you look back at yourself in 50 years, which college you went to won't be in the top 10 most important events in your life. 
 
 This doesn't mean you shouldn't try for the top-tier colleges. If you're capable, why not? Just note that it likely isn't as important as others make it out to be. I rode the hype train and honestly, the only reason I want to make it into a top-tier college is just for my ego. I don't necessarily think it will get me a better education overall. If even I think I will be fine, you should have confidence in yourself. 
 
- 
 
 ## Early and Regular Decisions. What's the difference?
 
@@ -70,6 +68,7 @@ Most of my friends applied for EA as it gives you more flexibility. But if you *
  
 
 # The Application Process: What is my timeline?
+------
 
 There are five key aspects of the application process:
 
@@ -123,7 +122,7 @@ Try to stand out. Instead of saying "I'm doing well," say "I'm doing fantastic" 
 
  
 
-## Closing Thoughts
+# Closing Thoughts
 
 Remember: the college application process isn't complicated, it's tedious. Doing things up front will reduce the stress for your future self. Being organized will make you confident that you are doing things correctly and efficiently. Feel free to email me at **eric chen 314 at gmail dot com** if you have any questions or would like some advice. I want to help you to do better than I did. If you want, I am willing to send you some essays I wrote for my schools. All you have to do is ask.
 
