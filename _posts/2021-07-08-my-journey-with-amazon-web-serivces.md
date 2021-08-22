@@ -2,6 +2,7 @@
 title: My Journey with Amazon Web Services
 categories: Cloud
 tags: aws
+pin: true
 image:
     src: /assets/img/blog/2021-07-08-my-journey-with-amazon-web-services.md/thumbnail.png
     width: 450
