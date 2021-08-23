@@ -1,6 +1,6 @@
 ---
 title: Deploying this website [deprecated]
-categories: Web_Development Django
+categories: [Web Development, Django]
 tags: django website
 ---
 

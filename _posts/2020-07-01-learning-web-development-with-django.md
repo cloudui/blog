@@ -2,7 +2,7 @@
 title: Learning Web Development with Django
 image:
     src: /assets/img/blog/2020-07-01-learning-web-development-with-django/django.jpeg
-categories: Web_Development Django
+categories: [Web Development, Django]
 tags: django aws guide
 ---
 
