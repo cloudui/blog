@@ -19,6 +19,8 @@
     static get DARK_MODE() { return "dark"; }
     static get LIGHT_MODE() { return "light"; }
 
+    
+
     constructor() {
       if (this.hasMode) {
         if (this.isDarkMode) {
@@ -60,23 +62,32 @@
     setDark() {
       $('html').attr(ModeToggle.MODE_KEY, ModeToggle.DARK_MODE);
       localStorage.setItem(ModeToggle.MODE_KEY, ModeToggle.DARK_MODE);
-      $('#light-mode').show();
-      $('#dark-mode').hide();
+      var light = document.getElementById('light-mode');
+      var dark = document.getElementById('dark-mode');
+
+      light.classList.remove('hide-icon');
+      dark.classList.add('hide-icon');
     }
 
     setLight() {
       $('html').attr(ModeToggle.MODE_KEY, ModeToggle.LIGHT_MODE);
       localStorage.setItem(ModeToggle.MODE_KEY, ModeToggle.LIGHT_MODE);
       
-      $('#light-mode').hide();
-      $('#dark-mode').show();
+      var light = document.getElementById('light-mode');
+      var dark = document.getElementById('dark-mode');
+
+      light.classList.add('hide-icon');
+      dark.classList.remove('hide-icon');
     }
 
     clearMode() {
       $('html').removeAttr(ModeToggle.MODE_KEY);
       localStorage.removeItem(ModeToggle.MODE_KEY);
-      $('#light-mode').hide();
-      $('#dark-mode').show();
+      var light = document.getElementById('light-mode');
+      var dark = document.getElementById('dark-mode');
+
+      light.classList.add('hide-icon');
+      dark.classList.remove('hide-icon');
     }
 
     get sysDarkPrefers() { return window.matchMedia("(prefers-color-scheme: dark)"); }
@@ -123,29 +134,23 @@
         if (this.isSysDarkPrefer) {
           if (this.isLightMode) {
             this.clearMode();
-            console.log('11');
           } else {
             this.setLight();
-            console.log('12');
           }
 
         } else {
           if (this.isDarkMode) {
             this.clearMode();
-            console.log('21');
           } else {
             this.setDark();
-            console.log('22');
           }
         }
 
       } else {
         if (this.isSysDarkPrefer) {
           this.setLight();
-          console.log('31');
         } else {
           this.setDark();
-          console.log('32');
         }
       }
       this.updateMermaid();
@@ -156,7 +161,8 @@
   let toggle = new ModeToggle();
 
   if(!toggle.hasMode) {
-      $('#light-mode').hide();
+    var light = document.getElementById('light-mode');
+    light.classList.add('hide-icon');
   }
   
   $(".mode-toggle").click(function() {
