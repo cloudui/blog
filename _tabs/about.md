@@ -4,12 +4,12 @@ icon: info
 order: 4
 ---
 
-Hi! My name is Eric. I am a rising freshman at the University of Maryland, where I will be studying Computer Engineering. This blog is for me to share things I like and find interesting. You'll find an assortment of topics; feel free to look around. This website was made using [Jekyll](https://jekyllrb.com/) with the [Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) theme, with some modifications. If you have any questions, contact me at ericchen314@gmail.com.
+Hi! My name is Eric. I am a freshman studying Computer Engineering at the University of Maryland. This blog is for me to share things I like and find interesting. You'll find an assortment of topics, so feel free to look around. This website was made using [Jekyll](https://jekyllrb.com/) with the [Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) theme, with some modifications. If you have any questions, contact me at ericchen314 at gmail dot com.
 
 Enjoy!
 
 ![Me and Spice](/assets/img/erec.jpg){: width="400" }
-*Me and my cat Spice*
+*Me and my cat, Spice*
 
 If you want to support my blog, consider [buying me a coffee](https://www.buymeacoffee.com/echen)! 
 
