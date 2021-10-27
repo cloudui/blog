@@ -69,7 +69,7 @@ google_analytics:
 # and there will be a toggle to switch the theme between dark and light
 # on the bottom left of the sidebar.
 #
-theme_mode: dark
+theme_mode: 
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
