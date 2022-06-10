@@ -2,8 +2,8 @@
 title: Two Months at UMD!
 categories: Lifestyle School
 tags: [friends, college]
-pin: true
 ---
+
 I've been at the University of Maryland for two months now! Here is a recap of everything that has happened so far. 
 
 # First Week Shenanigans

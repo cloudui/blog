@@ -118,7 +118,7 @@ I used this app until I found Sync. It is also very good. It is based on fluid a
 
 ### Flamingo for Twitter &nbsp; <i class="fab fa-android" style="color: #3DDC84;" aria-hidden="true"></i> 
 
-This app is also discontinued, and you can't really get it anymore. So why am I mentioning it? First, it still has an incredibly nice design, and it is a very customizable Twitter app. However, I do not recommend it. Twitter's API for developers is some hot garbage. It restricts access to features like favorite notifications, retweet count, and token limits. I doubt this will be changed any time soon, which means all independent Twitter apps are missing out on features only the actual app will have. I do not recommend Twitter apps unless you really like the design, so it's up to you. Having worked with the API, I know the pain of working with this crappy company.
+This app is also discontinued, and you can't really get it anymore. So why am I mentioning it? First, it still has an incredibly nice design, and it is a very customizable Twitter app. However, I do not recommend it. Twitter's API for developers is some hot garbage. It restricts access to features like favorite notifications, retweet count, and token limits. I doubt this will be changed any time soon, which means all independent Twitter apps are missing out on features only the actual app will have. I do not recommend Twitter apps unless you really like the design, so it's up to you. Having worked with the API, I know the pain of working with free-tier limits.
 
  
 

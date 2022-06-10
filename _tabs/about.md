@@ -4,12 +4,12 @@ icon: info
 order: 4
 ---
 
-Hi! My name is Eric. I am a freshman studying Computer Engineering at the University of Maryland. This blog is for me to share things I like and find interesting. You'll find an assortment of topics, so feel free to look around. This website was made using [Jekyll](https://jekyllrb.com/) with the [Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) theme, with some modifications. If you have any questions, contact me at ericchen314 at gmail dot com.
+Hi! My name is Eric. I am a sophomore studying Computer Engineering at the University of Maryland. This blog is for me to share things I like and find interesting. You'll find an assortment of topics, so feel free to look around. This website was made using [Jekyll](https://jekyllrb.com/) with the [Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) theme, with some modifications. If you have any questions, contact me at ericchen314 at gmail dot com.
 
 Enjoy!
 
-![Me and Spice](/assets/img/erec.jpg){: width="400" }
-*Me and my cat, Spice*
+![it's a me, mario](/assets/img/aboutphoto.jpg){: width="350" }
+<!-- *Me and my cat, Spice* -->
 
 If you want to support my blog, consider [buying me a coffee](https://www.buymeacoffee.com/echen)! 
 
@@ -23,9 +23,9 @@ If you want to support my blog, consider [buying me a coffee](https://www.buymea
 
 **Favorite Sport**: Basketball
 
-**Superpower I'd like to have**: Flight or Super Memory
+**Superpower I'd like to have**: Flight or Super Speed
 
-**Favorite Ice Cream Flavor**: Butter Pecan
+**Favorite Ice Cream Flavor**: Salted Caramel
 
 **Favorite Music Genres**: Classical, Jpop, Video Game, Classic Pop 
 
