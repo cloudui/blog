@@ -4,6 +4,7 @@ categories: Lifestyle School
 tags: [friends, college, reflection, improvement]
 image:
     src: /assets/img/blog/2022-06-10-lessons-learned-in-a-semester-gone-by/mirror-reflection.jpg 
+date: 2022-06-10 18:30 -0400
 pin: true
 ---
 
@@ -15,7 +16,7 @@ A semester gone as quickly as it came. Allow me to take you along its momentous 
 
 It has been a while since I seriously sat down and seriously thought about what has happened in my life recently. Over the last few months, there have been times of fireworks and times of gloom, and everything has rushed by so fast that I haven’t found the right moment to really think about it. 
 
-I have been aware for a while that I tend to ignore difficult and abstract things in my life by filling my free time with distractions. Whether it be mindlessly playing Tetris, fidgeting with a Rubik’s cube, or watching videos on YouTube, I constantly find a new way to drown out things I don’t want to think about, whether it be homework or problems with my relationships or daily life. Around two months ago, I attempted to remedy this bad habit by writing in a journal every night with the hope that it would force me to think about my day and what motivated me to do certain things. It was great at first, but I found myself writing more face-value recollections of events that passed instead of writing about my thoughts and emotions; when I tried to write more about the latter, I would end up writing too much, which made me unmotivated to continue journaling. After a few weeks, I started lagging behind schedule and eventually dropped it because I was “too busy.”
+I have been aware for a while that I tend to ignore difficult abstractand  things in my life by filling my free time with distractions. Whether it be mindlessly playing Tetris, fidgeting with a Rubik’s cube, or watching videos on YouTube, I constantly find a new way to drown out things I don’t want to think about, whether it be homework or problems with my relationships or daily life. Around two months ago, I attempted to remedy this bad habit by writing in a journal every night with the hope that it would force me to think about my day and what motivated me to do certain things. It was great at first, but I found myself writing more face-value recollections of events that passed instead of writing about my thoughts and emotions; when I tried to write more about the latter, I would end up writing too much, which made me unmotivated to continue journaling. After a few weeks, I started lagging behind schedule and eventually dropped it because I was “too busy.”
 
 I feel like some of you might be the same. When was the last time you analyzed your current state: your current strengths and weaknesses, personal flaws, or future goals? How about just sitting down for 15 minutes at the end of the day to figure out what you did that day? While we’re preoccupied with what we think are pressing matters, we tend to distract ourselves from bigger underlying questions or issues that we might have, maybe ones that are more important or severe. 
 
@@ -106,7 +107,7 @@ Jealousy is an innate and natural thing. It’s easy to feel jealous or resent t
 
 2. You’re not even playing the same game
 
-    Why are you comparing yourself to Abel? You’re living your own life, not his. He might want to become a research scientist while you want to become a rocket engineer. You’re walking on two separate tracks. The benchmarks for his success are not the same as yours. You aren’t on the same timeline, and opportunities will manifest in your life at different rates. You must have patience and persevere at your own pace, not at James’s. You do the best you can do, as your life is your own. As Jordan Peterson said, “compare yourself to the person you were yesterday, not to who someone is today.” 
+    Why are you comparing yourself to Abel? You’re living your own life, not his. He might want to become a research scientist while you want to become a rocket engineer. You’re walking on two separate tracks. The benchmarks for his success are not the same as yours. You aren’t on the same timeline, and opportunities will manifest in your life at different rates. You must have patience and persevere at your own pace, not at Abel’s. You do the best you can do, as your life is your own. As Jordan Peterson said, “compare yourself to the person you were yesterday, not to who someone is today.” 
 
 3. Abel might be better than you
 
@@ -213,7 +214,7 @@ I am not good at accepting failure. It often makes me incredibly angry at myself
 
 ### Not everyone cares about me
 
-Sounds a bit harsh, but true. I fascinate myself with unusual facts about the universe, politics, and interesting tidbits about psychological abstraction. I tell my friends these things with passion, and I am often met with puzzled faces and annoyance. Why? Because I ignore the fact that they could not give any less of a sh*t on how Hawaii was formed. 
+Sounds a bit harsh, but true. I fascinate myself with unusual facts about the universe, politics, and interesting tidbits about psychological abstraction. I tell my friends these things with passion, and I am often met with puzzled faces and annoyance. Why? Because I ignore the fact that they could not give any less of a sh*t about how Hawaii was formed. 
 
 I need to give people space and put myself second sometimes. I don’t want to risk my friends becoming uncomfortable or annoyed to satisfy my own selfish desires. 
 
