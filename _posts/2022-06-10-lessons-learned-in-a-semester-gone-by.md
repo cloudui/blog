@@ -1,9 +1,9 @@
 ---
 title: Lessons Learned in a Semester Gone By
 categories: Lifestyle School
-tags: [friends, college, reflection, improvement]
+tags: [friends, college, reflection, improvement, advice]
 image:
-    src: /assets/img/blog/2022-06-10-lessons-learned-in-a-semester-gone-by/mirror-reflection.jpg 
+    path: /assets/img/blog/2022-06-10-lessons-learned-in-a-semester-gone-by/mirror-reflection.jpg 
 date: 2022-06-10 18:30 -0400
 pin: true
 ---

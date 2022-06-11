@@ -41,9 +41,9 @@ layout: default # The posts' layout
             <!-- .post-meta -->
 
             <div class="post-content">
-                {% if page.image.src %}
+                {% if page.image.path %}
                <div class="thumbnail">
-                <img src="{{ page.image.src }}" class="image-preview" alt="{{ page.image.alt | default: " Preview Image " }}" {% if page.image.width %}width="{{ page.image.width }}" 
+                <img src="{{ page.image.path }}" class="image-preview" alt="{{ page.image.alt | default: " Preview Image " }}" {% if page.image.width %}width="{{ page.image.width }}" 
                 {% endif %} {% if page.image.height %}height="{{ page.image.height }}" {% endif %}>
              
                 

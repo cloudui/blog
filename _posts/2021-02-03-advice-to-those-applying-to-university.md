@@ -1,7 +1,7 @@
 ---
 title: Advice to those Applying to University
 image:
-    src: /assets/img/blog/2021-02-03-advice-to-those-applying-to-university/college.jpg
+    path: /assets/img/blog/2021-02-03-advice-to-those-applying-to-university/college.jpg
 categories: Lifestyle Advice
 tags: guide college advice
 ---

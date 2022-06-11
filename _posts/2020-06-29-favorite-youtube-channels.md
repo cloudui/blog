@@ -1,6 +1,6 @@
 ---
 image:
-    src: /assets/img/blog/2020-06-29-favorite-youtube-channels/youtube_logo_dark.jpg
+    path: /assets/img/blog/2020-06-29-favorite-youtube-channels/youtube_logo_dark.jpg
 categories: Lifestyle
 tags: youtube favorites
 ---
