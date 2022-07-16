@@ -5,7 +5,7 @@ theme: jekyll-theme-chirpy
 
 # Only if your site type is GitHub Project sites and doesn't have a custom domain,
 # change below value to '/projectname'.
-baseurl: '/blog'
+baseurl: ''
 
 # The language of the site layout › http://www.lingoes.net/en/translator/langcode.htm
 # Go to folder '_data/locales' to check the available language options
@@ -30,7 +30,7 @@ description: >-                        # used by seo meta and the atom feed
   echen's writeups
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://echen.io/'
+url: 'https://blog.echen.io/'
 
 github:
   username: cloudui            # change to your github username
@@ -164,8 +164,8 @@ jekyll-archives:
     category: category
     tag: tag
   permalinks:
-    tag: /blog/tags/:name/
-    category: /blog/categories/:name/
+    tag: /tags/:name/
+    category: /categories/:name/
 
 # Outdated configuration warning
 outdated: '-- Missing configuration options! --'
