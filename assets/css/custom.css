@@ -1,0 +1,95 @@
+/* :root {
+    --link-color: rgb(81, 156, 214) !important;
+} */
+
+
+.feather {
+    height: 20px;
+    position: relative;
+    top: 6px
+}
+
+.coffee {
+    position: relative;
+    top: 2px;
+}
+
+.dot {
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.post-content {
+    line-height: 1.6;
+}
+
+.image {
+    text-align: center;
+    display: block;
+}
+
+img {
+    border-radius: 10px !important;
+}
+
+figcaption {
+    font-size: small;
+    margin-bottom: 1em;
+    color: #afb0b1;
+}
+
+@media all and (min-width: 1650px) {
+    .dots {
+        margin-left: 4.5rem;
+    }
+}
+
+@media all and (min-width: 850px) and (max-width: 1199px) {
+    .dots {
+        margin-left: 1rem;
+        margin-right: 1rem
+    }
+}
+
+@media all and (max-width: 576px) {
+    .dots {
+        margin-left: 1.8rem;
+        margin-right: 1.8rem;
+    }
+}
+
+.img-preview {
+    position: relative;
+    left: 50%;
+    -webkit-transform: translateX(-50%);
+    -ms-transform: translateX(-50%);
+    transform: translateX(-50%);
+    margin-top: 0;
+    margin-bottom: 1.5rem !important
+}
+
+@media all and (min-width: 1650px) {
+    #sidebar ul .nav-item .nav-link>svg.unloaded {
+        display: inline-block !important
+    }
+}
+
+.thumbnail {
+    margin-bottom: 2rem;
+}
+
+.image-preview {
+    position: relative;
+    left: 50%;
+    -webkit-transform: translateX(-50%);
+    -ms-transform: translateX(-50%);
+    transform: translateX(-50%);
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.hide-icon {
+    display: none;
+}
