@@ -5,7 +5,7 @@ theme: jekyll-theme-chirpy
 
 # Only if your site type is GitHub Project sites and doesn't have a custom domain,
 # change below value to '/projectname'.
-baseurl: ''
+baseurl: '/blog'
 
 # The language of the site layout › http://www.lingoes.net/en/translator/langcode.htm
 # Go to folder '_data/locales' to check the available language options
@@ -27,7 +27,7 @@ title: echen's blog                          # the main title
 tagline: Your shelter from the storm   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  Personal blog made with Jekyll
+  echen's writeups
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://echen.io'
@@ -120,7 +120,7 @@ defaults:
       toc: true         # Display TOC column in posts.
       # DO NOT modify the following parameter unless you are confident enough
       # to update the code of all other post links in this project.
-      permalink: blog/:year-:month-:day-:title
+      permalink: :year-:month-:day-:title
   -
     scope:
       path: _drafts
@@ -164,8 +164,8 @@ jekyll-archives:
     category: category
     tag: tag
   permalinks:
-    tag: /tags/:name/
-    category: /categories/:name/
+    tag: /blog/tags/:name/
+    category: /blog/categories/:name/
 
 # Outdated configuration warning
 outdated: '-- Missing configuration options! --'
